@@ -1,0 +1,1 @@
+/root/ji/example-helloworld/src/transfer-lamports/target/bpfel-unknown-unknown/release/libspl_example_transfer_lamports.rlib: /root/ji/example-helloworld/src/transfer-lamports/src/entrypoint.rs /root/ji/example-helloworld/src/transfer-lamports/src/lib.rs /root/ji/example-helloworld/src/transfer-lamports/src/processor.rs

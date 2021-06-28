@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/root/ji/example-helloworld/src/cross-program-invocation/target/debug/build/typenum-66964a7887ae2d1b/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/root/ji/example-helloworld/src/cross-program-invocation/target/debug/build/typenum-66964a7887ae2d1b/out/op.rs

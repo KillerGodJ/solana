@@ -1,0 +1,13 @@
+/root/ji/example-helloworld/src/cross-program-invocation/target/debug/deps/tinyvec-b1c15c87b06e0097.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array/generated_impl.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec_drain.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/slicevec.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/tinyvec.rs
+
+/root/ji/example-helloworld/src/cross-program-invocation/target/debug/deps/libtinyvec-b1c15c87b06e0097.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array/generated_impl.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec_drain.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/slicevec.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/tinyvec.rs
+
+/root/ji/example-helloworld/src/cross-program-invocation/target/debug/deps/tinyvec-b1c15c87b06e0097.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array/generated_impl.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec_drain.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/slicevec.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/tinyvec.rs
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/array/generated_impl.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/arrayvec_drain.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/slicevec.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.2.0/src/tinyvec.rs:

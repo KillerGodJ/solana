@@ -1,0 +1,1 @@
+/root/ji/example-helloworld/src/cross-program-invocation/target/bpfel-unknown-unknown/release/libspl_example_cross_program_invocation.rlib: /root/ji/example-helloworld/src/cross-program-invocation/src/entrypoint.rs /root/ji/example-helloworld/src/cross-program-invocation/src/lib.rs /root/ji/example-helloworld/src/cross-program-invocation/src/processor.rs

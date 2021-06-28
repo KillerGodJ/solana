@@ -1,0 +1,5 @@
+LLVM ERROR: Cannot select: 0x7f2cf4085778: i64,ch = AtomicLoadAnd<(load store release 8 on %ir.51)> 0x7f2cf4085cc0:1, 0x7f2cf4086000, Constant:i64<-3>
+  0x7f2cf4086000: i64,ch = CopyFromReg 0x7f2cf401c0c8, Register:i64 %13
+    0x7f2cf4085918: i64 = Register %13
+  0x7f2cf4085848: i64 = Constant<-3>
+In function: _ZN16parking_lot_core9word_lock8WordLock11unlock_slow17h6a3a4814a958993fE

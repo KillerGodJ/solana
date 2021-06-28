@@ -1,0 +1,5 @@
+LLVM ERROR: Cannot select: 0x7f93b803e848: i64,ch = AtomicLoadOr<(load store acq_rel 8 on %ir.2)> 0x7f93b801c0c8, 0x7f93b803e4a0, Constant:i64<2>
+  0x7f93b803e4a0: i64,ch = CopyFromReg 0x7f93b801c0c8, Register:i64 %2
+    0x7f93b8040f20: i64 = Register %2
+  0x7f93b803e710: i64 = Constant<2>
+In function: _ZN12futures_core4task10__internal12atomic_waker11AtomicWaker4wake17h1c29d8a1e1e4d6bdE

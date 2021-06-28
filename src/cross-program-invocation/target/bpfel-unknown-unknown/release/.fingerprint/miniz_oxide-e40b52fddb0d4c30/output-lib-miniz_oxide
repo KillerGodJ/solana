@@ -1,0 +1,6 @@
+Error: Function _ZN11miniz_oxide7deflate21compress_to_vec_inner17h3cad9daceb3f784aE Stack offset of -65744 exceeded max offset of -4096 by 61648 bytes, please minimize large stack variables
+Error: Function _ZN85_$LT$miniz_oxide..inflate..stream..InflateState$u20$as$u20$core..default..Default$GT$7default17haee621c658e73514E Stack offset of -17440 exceeded max offset of -4096 by 13344 bytes, please minimize large stack variables
+Error: Function _ZN11miniz_oxide7inflate6stream12InflateState3new17h163a1dc3ac6d7045E Stack offset of -27976 exceeded max offset of -4096 by 23880 bytes, please minimize large stack variables
+Error: Function _ZN69_$LT$alloc..boxed..Box$LT$T$GT$$u20$as$u20$core..default..Default$GT$7default17h78d7ce65c6ecb91bE Stack offset of -17440 exceeded max offset of -4096 by 13344 bytes, please minimize large stack variables
+Error: Function _ZN11miniz_oxide7deflate4core15CompressorOxide5reset17hacd5c9fa4d81adf4E Stack offset of -164104 exceeded max offset of -4096 by 160008 bytes, please minimize large stack variables
+Error: Function _ZN11miniz_oxide7deflate4core12HuffmanOxide14optimize_table17hb1f2261d461f5801E Stack offset of -9056 exceeded max offset of -4096 by 4960 bytes, please minimize large stack variables
